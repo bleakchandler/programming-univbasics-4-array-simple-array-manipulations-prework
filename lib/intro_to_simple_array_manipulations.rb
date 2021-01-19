@@ -64,8 +64,7 @@ end
 
 
 def using_delete_at(array, integer)
-  instruments = ["Saxophone", ["Piano", "Trumpet"], "Violin", "Drums", "Flute"]
-  array.flatten
+ famous_robots = ["Johnny 5", "R2D2", "Robocop"]
     
 
 end
