@@ -58,9 +58,8 @@ end
 
 
 def using_delete(array, string)
-instruments = ["Saxophone", ["Piano", "Trumpet"], "Violin", "Drums", "Flute"]
-  array.flatten
-
+  instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
+   no_offense_steven = array.delete(2, "Steven")
 end
 
 
@@ -68,7 +67,7 @@ def using_delete_at(array, integer)
   instruments = ["Saxophone", ["Piano", "Trumpet"], "Violin", "Drums", "Flute"]
   array.flatten
     
-  end
+
 end
 
 
